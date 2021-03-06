@@ -1,0 +1,18 @@
+2021-03-03 12:35:20,204 INFO [root] [driver_utils.py:get_driver:13)] - create chrome driver
+2021-03-03 12:35:28,796 INFO [root] [test_1login.py:test_login:30)] - login with 13333333333--123456--8888
+2021-03-03 12:35:31,797 INFO [root] [test_1login.py:test_login:32)] - wait 3s for page display
+2021-03-03 12:35:34,548 INFO [root] [driver_utils.py:quit_driver:28)] - chrome driver is still alive
+2021-03-03 12:35:34,552 INFO [root] [driver_utils.py:get_driver:18)] - use existed chrome driver
+2021-03-03 12:35:36,859 INFO [root] [test_cart.py:test_cart:24)] - search with 小米手机5
+2021-03-03 12:35:51,491 INFO [root] [test_cart.py:test_cart:29)] - wait 3s for page display
+2021-03-03 12:35:53,569 INFO [root] [driver_utils.py:quit_driver:28)] - chrome driver is still alive
+2021-03-03 12:35:53,577 INFO [root] [driver_utils.py:get_driver:18)] - use existed chrome driver
+2021-03-03 12:36:03,512 INFO [root] [test_order.py:test_submit_order:35)] - wait 3s for page display
+2021-03-03 12:36:10,782 INFO [root] [driver_utils.py:quit_driver:28)] - chrome driver is still alive
+2021-03-03 12:36:10,785 INFO [root] [driver_utils.py:get_driver:18)] - use existed chrome driver
+2021-03-03 12:36:12,695 INFO [root] [test_order.py:test_pay:42)] - switch to other window
+2021-03-03 12:36:17,980 INFO [root] [test_order.py:test_pay:46)] - switch to other window
+2021-03-03 12:36:29,172 INFO [root] [test_order.py:test_pay:50)] - wait 3s for page display
+2021-03-03 12:36:31,231 INFO [root] [driver_utils.py:quit_driver:28)] - chrome driver is still alive
+2021-03-03 12:36:31,232 INFO [root] [driver_utils.py:get_driver:18)] - use existed chrome driver
+2021-03-03 12:36:31,586 INFO [root] [driver_utils.py:quit_driver:24)] - quit chrome driver
